@@ -1,0 +1,25 @@
+DS work
+
+Bayesian Probability
+-how to become a bayesian
+- bayes for hackers
+-doing bayesian data analysis
+-think bayes
+-empirical bayes
+-statistical rethinking
+
+Stats (general)
+- think stats
+-computational statistics scipy 2015
+
+Python
+- intro to machine learning in python (textbook)
+-python on kindle
+-whirlwind tour of python (jakevdp github)
+- think python
+- data science using python
+-python for data analysis (pandas, numpy)
+
+Deep Learning
+- MIT text (free online)
+- deep learning in R (textbook)
